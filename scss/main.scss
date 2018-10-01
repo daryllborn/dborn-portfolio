@@ -1,5 +1,6 @@
 @import "config";
 @import "menu";
+@import "mobile";
 
 * {
   box-sizing: bodrder-box;
@@ -72,5 +73,3 @@ main {
     }
   }
 }
-
-@import "mobile";
